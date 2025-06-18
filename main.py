@@ -6,3 +6,5 @@ def greet_user():
 
     # Call the function to greet the user
     greet_user()
+
+    # Hello World this is a simple program to greet the user
